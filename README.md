@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Revanced And Revanced Extended (forked from FiorenMas https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root#download)
+  Revanced And Revanced Extended (forked from FiorenMas https://github.com/hungtran19/Revanced-And-Revanced-Extended-Non-Root#download)
   <br>
 </h1>
 
